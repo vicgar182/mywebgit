@@ -7,12 +7,12 @@
 }
 
 body{
-	background-image: url('../img/.jpg');
+	background-image: url('../img/montaña.jpg');
 	background-size: cover;
 }
 
 .bg-cover {      
-	background-image: url('img/.jpg');
+	background-image: url('../img/jumbotron.jpg');
 }
 
 a {
